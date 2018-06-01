@@ -2,7 +2,7 @@
   "name": "youtube-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yoavgecht.github.io/apps/youtube-app",
+  "homepage": "https://youtube-app-react.herokuapp.com/",
   "dependencies": {
     "jquery": "^2.2.1",
     "lodash": "^3.10.1",
